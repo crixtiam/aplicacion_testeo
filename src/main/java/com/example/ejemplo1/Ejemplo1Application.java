@@ -10,6 +10,7 @@ public class Ejemplo1Application {
 		SpringApplication.run(Ejemplo1Application.class, args);
 
 		//comentario nuevo comentario
+		//segundo comentario
 	}
 
 }
